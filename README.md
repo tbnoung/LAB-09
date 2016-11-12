@@ -51,7 +51,8 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
-
+###ผลที่ได้
+![](https://github.com/tbnoung/LAB-09/blob/master/9.1.PNG)
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)``` แล้วทดลอง Run โปรแกรม
